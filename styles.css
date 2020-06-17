@@ -1,11 +1,11 @@
 @font-face {
     font-family: HelveticaNue;
-    src: url("fonts/HelveticaNeue-Thin.otf") format("opentype");
+    src: url("HelveticaNeue-Thin.otf") format("opentype");
 }
 @font-face {
     font-family: Roboto;
     font-weight: Light;
-    src: url("fonts/Roboto-Light.ttf")
+    src: url("Roboto-Light.ttf")
 }
 
 .bkg{
